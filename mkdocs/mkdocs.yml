@@ -1,0 +1,49 @@
+site_name: TRAIL Ground Point Filtering
+repo_url: https://github.com/3dgeo-heidelberg/trail-groundfiltering
+docs_dir: ../docs
+site_dir: ../site
+
+theme:
+  logo: img/3DGeo_globe_white.svg     # light mode logo
+  favicon: img/3dgeo.ico
+  name: material
+  custom_dir: overrides
+  palette:
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        logo: img/3DGeo_globe_white.svg     # light mode logo
+        primary: custom
+        accent: custom
+        toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
+
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        logo: img/3DGeo_globe_red.png     # dark mode logo
+        primary: custom
+        accent: custom  # same as above
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+  features:
+    - search.highlight
+    - content.code.copy
+    - navigation.top
+    - navigation.footer
+use_directory_urls: false
+extra_css:
+  - customs.css
+  - style.css
+plugins:
+  - mkdocs-jupyter:
+      include_source: True
+      include_requirejs: true
+      ignore_h1_titles: True
+  - search
+markdown_extensions:
+  - attr_list
+  - abbr
+
+nav:
+  - Home: index.md

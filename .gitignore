@@ -1,0 +1,13 @@
+*.ply
+*.las
+*.laz
+tmp/*
+*.log
+*.obj
+*.geojson
+*.json
+*.tif
+out/*
+docs/out/*
+/data
+site/*
