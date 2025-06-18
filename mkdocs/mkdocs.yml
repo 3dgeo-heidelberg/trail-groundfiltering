@@ -4,14 +4,14 @@ docs_dir: ../docs
 site_dir: ../site
 
 theme:
-  logo: img/3DGeo_globe_white.svg     # light mode logo
+  # logo: img/3DGeo_globe_white.svg     # light mode logo
   favicon: img/3dgeo.ico
   name: material
   custom_dir: overrides
   palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        logo: img/3DGeo_globe_white.svg     # light mode logo
+        # logo: img/3DGeo_globe_white.svg     # light mode logo
         primary: custom
         accent: custom
         toggle:
@@ -20,7 +20,7 @@ theme:
 
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
-        logo: img/3DGeo_globe_red.png     # dark mode logo
+        # logo: img/3DGeo_globe_red.png     # dark mode logo
         primary: custom
         accent: custom  # same as above
         toggle:
@@ -47,3 +47,4 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Installation: installation.md
