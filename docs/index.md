@@ -72,12 +72,32 @@ Winiwarter, L., Esmorís Pena, A.M., Weiser, H., Anders, K., Martínez Sánchez,
 
 </details>
 
+## Lecturers
+
+The workshop was prepared by 
+- [Michael Doneus](https://uha.univie.ac.at/ueber-uns/personen/wissenschaftliche-mitarbeiterinnen/universitaetsprofessorinnen/michael-doneus-institutsvorstand/) (Professor of landscape archaeology, University of Vienna),
+- [Hannah Weiser](https://www.geog.uni-heidelberg.de/en/people-at-the-institute/hannah-weiser) ([3DGeo Research Group](https://www.uni-heidelberg.de/3dgeo), Heidelberg University) and 
+- [Zoran Čučković](https://www.zoran-cuckovic.from.hr/). 
+
 
 ## Acknowledgements
 
 This workshop is part of the [TRAIL](https://trail.zrc-sazu.si/) Meeting 2025 under the theme "Airborne laser scanning for farmed landscapes". TRAIL (Training and Research in the Archaeological Interpretation of Lidar) was founded to provide opportunities to share expertise and provide training in the archaeological use of LiDAR.
 
-The sixth TRAIL Meeting is organized by [ZRC SAZU](https://www.zrc-sazu.si/en) (Slovenia) in partnership with [Historic Environment Scotland](https://www.historicenvironment.scot/) (United Kingdom), [CNRS](https://www.cnrs.fr/en) (France), [University of Clermont Auvergne](https://www.uca.fr/en) (France), CLUE+, [Vrije Universiteit Amsterdam](https://vu.nl/nl) (The Netherlands), and [University of Amsterdam](https://www.uva.nl/en) (the Netherlands). It is financially supported by [ZRC SAZU](https://www.zrc-sazu.si/en), [Historic Environment Scotland](https://www.historicenvironment.scot/), [Aerial Archaeology Research Group](https://aargonline.com/wp/), [Slovenian Research and Innovation Agency](https://www.aris-rs.si/en/) (programme P2-0406) and [European Research Council](https://erc.europa.eu/) (project [STONE](https://cordis.europa.eu/project/id/101089123), GAP-101089123).
+The sixth TRAIL Meeting is organized by [ZRC SAZU](https://www.zrc-sazu.si/en) (Slovenia) in partnership with 
+- [Historic Environment Scotland](https://www.historicenvironment.scot/) (United Kingdom), 
+- [CNRS](https://www.cnrs.fr/en) (France),
+- [University of Clermont Auvergne](https://www.uca.fr/en) (France),
+- CLUE+,
+- [Vrije Universiteit Amsterdam](https://vu.nl/nl) (The Netherlands), and
+- [University of Amsterdam](https://www.uva.nl/en) (the Netherlands). 
+
+It is financially supported by 
+- [ZRC SAZU](https://www.zrc-sazu.si/en),
+- [Historic Environment Scotland](https://www.historicenvironment.scot/),
+- [Aerial Archaeology Research Group](https://aargonline.com/wp/),
+- [Slovenian Research and Innovation Agency](https://www.aris-rs.si/en/) (programme P2-0406) and
+- [European Research Council](https://erc.europa.eu/) (project [STONE](https://cordis.europa.eu/project/id/101089123), GAP-101089123).
 
 <table>
   <tr>
@@ -88,20 +108,20 @@ The sixth TRAIL Meeting is organized by [ZRC SAZU](https://www.zrc-sazu.si/en) (
   </tr>
 </table>
 
-The workshop was prepared by [Michael Doneus](https://uha.univie.ac.at/ueber-uns/personen/wissenschaftliche-mitarbeiterinnen/universitaetsprofessorinnen/michael-doneus-institutsvorstand/) (Professor of landscape archaeology, University of Vienna), [Hannah Weiser](https://www.geog.uni-heidelberg.de/en/people-at-the-institute/hannah-weiser) ([3DGeo Research Group, Heidelberg University](https://www.uni-heidelberg.de/3dgeo)) and [Zoran Čučković](https://www.zoran-cuckovic.from.hr/). 
 
 <center>
 <table>
   <tr>
     <td style="background-color:#ffffff; color:black; padding:2px;">
-      <img src="img/UniWien_CMYK_A4.svg?raw=true" alt="3DGeo Logo" width=400/><br/>
+      <a href="https://uha.univie.ac.at/"><img src="img/UniWien_CMYK_A4.svg?raw=true" alt="3DGeo Logo" width=400/></a><br/>
     </td>
     <td style="background-color:#ffffff; color:black; padding:2px;">
-      <img src="img/3DGeo_Logo_300dpi.png?raw=true" alt="3DGeo Logo" width=400/><br/>
+      <a href="https://www.uni-heidelberg.de/3dgeo"><img src="img/3DGeo_Logo_300dpi.png?raw=true" alt="3DGeo Logo" width=400/></a><br/>
     </td>
   </tr>
 </table>
 </center>
+
 
 **AFwizard** was developed by the [Scientific Software Center (SSC)](https://www.ssc.uni-heidelberg.de/en) of Heidelberg University in the framework of the project [Human-in-the-Loop Adaptive Terrain Filtering of 3D Point Clouds for Archaeological Prospection](https://ucrisportal.univie.ac.at/de/publications/human-in-the-loop-development-of-spatially-adaptive-ground-point-) led by Maria Shinoto. The Scientific Software is funded as part of the [Excellence Strategy of the German Federal and State Governments](https://www.exzellenzstrategie.de/en/).
 
@@ -109,18 +129,18 @@ The workshop was prepared by [Michael Doneus](https://uha.univie.ac.at/ueber-uns
 <table>
   <tr>
     <td style="color:black; padding:2px;">
-      <img src="img/ssc.png?raw=true" alt="SSC Logo" width=400/><br/>
+      <a href="https://www.ssc.uni-heidelberg.de/en"><img src="img/ssc.png?raw=true" alt="SSC Logo" width=400/></a><br/>
     </td>
   </tr>
 </table>
 </center>
 
-Development of **HELIOS++** is led by the [3DGeo Research Group](https://www.uni-heidelberg.de/3dgeo) and the [Scientific Software Center (SSC)](https://www.ssc.uni-heidelberg.de/en) of Heidelberg University with contributions from several collaborators. HELIOS++ is funded by the [German Research Foundation (DFG)](https://www.dfg.de/en/) in the frame of the Software projects [Fostering a community-driven and sustainable HELIOS++ scientific software](https://www.geog.uni-heidelberg.de/en/3dgeo/projects-of-the-3dgeo-research-group/fostering-a-community-driven-and-sustainable-helios-scientific-software) (528521476) and [VirtuaLearn3D](https://www.geog.uni-heidelberg.de/en/institute/geoinformatics/3dgeo-research-group/projects-of-the-3dgeo-research-group/virtualearn3d) (496418931).
+Development of **HELIOS++** is led by the [3DGeo Research Group](https://www.uni-heidelberg.de/3dgeo) ([Prof. Bernhard Höfle](https://www.geog.uni-heidelberg.de/en/people-at-the-institute/prof-dr-bernhard-hofle)) and the [Scientific Software Center (SSC)](https://www.ssc.uni-heidelberg.de/en) of Heidelberg University with contributions from several collaborators. HELIOS++ is funded by the [German Research Foundation (DFG)](https://www.dfg.de/en/) in the frame of the Software projects [Fostering a community-driven and sustainable HELIOS++ scientific software](https://www.geog.uni-heidelberg.de/en/3dgeo/projects-of-the-3dgeo-research-group/fostering-a-community-driven-and-sustainable-helios-scientific-software) (528521476) and [VirtuaLearn3D](https://www.geog.uni-heidelberg.de/en/institute/geoinformatics/3dgeo-research-group/projects-of-the-3dgeo-research-group/virtualearn3d) (496418931).
 
 <table>
   <tr>
     <td style="background-color:#ffffff; color:black; padding:2px;">
-      <img src="img/logo_sustainable_helios.png?raw=true" alt="Trier Map"/><br/>
+      <a href="https://www.geog.uni-heidelberg.de/en/3dgeo/projects-of-the-3dgeo-research-group/fostering-a-community-driven-and-sustainable-helios-scientific-software"><img src="img/logo_sustainable_helios.png?raw=true" alt="SustainableHELIOS Logo"/></a><br/>
     </td>
   </tr>
 </table>
