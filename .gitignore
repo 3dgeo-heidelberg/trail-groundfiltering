@@ -11,3 +11,5 @@ out/*
 docs/out/*
 /data
 site/*
+*.zip
+docs/.ipynb_checkpoints/
