@@ -41,6 +41,7 @@ plugins:
       include_requirejs: true
       ignore_h1_titles: True
   - search
+  - mkdocs-pdf
 markdown_extensions:
   - attr_list
   - abbr
