@@ -8,9 +8,9 @@ An important task in the processing of airborne laser scanning data is the deriv
 
 ## What to expect
 
-- **Session 1**: Introduction to LiDAR ground point filtering using the [AFwizard](https://github.com/ssciwr/afwizard) (Adaptive Filtering Wizard)
-- **Session 2**: Introduction to [HELIOS++](https://github.com/3dgeo-heidelberg/helios) (Heidelberg LiDAR Operations Simulator) and hands-on exercise to find ground point filtering pipelines for different simulated LiDAR scenarios
-- **Session 3**: Application of the learned skills to further datasets (can be your own datasets, provided data or simulated data)
+In hands-on Jupyter notebooks, we will give:
+- an introduction to LiDAR ground point filtering using the [AFwizard](https://github.com/ssciwr/afwizard) (Adaptive Filtering Wizard)
+- an introduction to [HELIOS++](https://github.com/3dgeo-heidelberg/helios) (Heidelberg LiDAR Operations Simulator) to virtually compare different survey scenarios
 
 ## Installation of necessary software
 

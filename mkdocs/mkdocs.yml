@@ -49,3 +49,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Installation: installation.md
+  - Afwizard tutorials:
+    - Study site 1: workflow_StA.ipynb
+    - Study site 2: workflow_PK.ipynb
+  - HELIOS++ tutorials:
+    - ALS simulation: helios_als.ipynb
+    - ULS simulation: helios_uls.ipynb
