@@ -13,13 +13,32 @@ In hands-on Jupyter notebooks, we will give:
 - an introduction to LiDAR ground point filtering using the [AFwizard](https://github.com/ssciwr/afwizard) (Adaptive Filtering Wizard)
 - an introduction to [HELIOS++](https://github.com/3dgeo-heidelberg/helios) (Heidelberg LiDAR Operations Simulator) to virtually compare different survey scenarios
 
+!!! note annotate "Important"
+
+    Please make sure to install the software and download the code repository and dataset ^^before^^ the workshop starts!
+
+
+## Dataset and Code
+
+[Download data (heiBOX)](https://heibox.uni-heidelberg.de/d/5fb2dbf7edbe44669630){ .md-button .md-button--primary }
+[Code repository (GitHub)](https://github.com/3dgeo-heidelberg/trail-groundfiltering){ .md-button }
+
+Instructions:
+
+- Click on the "Download data (heiBOX)" link above and download the three files.
+- Click on the "Code repository (GitHub)" link above to go to the GitHub repository.
+- On GitHub, click the green "<> Code" button and select "Download ZIP".
+- Unzip the archive to a folder named `trail-groundfiltering`.
+- Place the data downloaded above from heiBOX into the `docs/data` folder of the unzipped folder.
+
+If you have `git` installed, you can alternatively also clone the repository using:
+```
+git clone https://github.com/3dgeo-heidelberg/trail-groundfiltering.git
+```
+
 ## Installation of necessary software
 
-Tutorials for the installation of necessary software is documented on the [Installation page](installation.md).
-
-## Datasets
-
-*URLs to datasets will follow*
+The steps for installation of necessary software are documented on the [Installation page](installation.md).
 
 ## Literature and References
 
@@ -76,9 +95,10 @@ Winiwarter, L., Esmorís Pena, A.M., Weiser, H., Anders, K., Martínez Sánchez,
 ## Lecturers
 
 The workshop was prepared by 
+
 - [Michael Doneus](https://uha.univie.ac.at/ueber-uns/personen/wissenschaftliche-mitarbeiterinnen/universitaetsprofessorinnen/michael-doneus-institutsvorstand/) (Professor of landscape archaeology, University of Vienna),
 - [Hannah Weiser](https://www.geog.uni-heidelberg.de/en/people-at-the-institute/hannah-weiser) ([3DGeo Research Group](https://www.uni-heidelberg.de/3dgeo), Heidelberg University) and 
-- [Zoran Čučković](https://www.zoran-cuckovic.from.hr/). 
+- [Zoran Čučković](https://www.zoran-cuckovic.from.hr/) (Clermont Auvergne University)
 
 
 ## Acknowledgements

@@ -45,6 +45,13 @@ plugins:
 markdown_extensions:
   - attr_list
   - abbr
+  - md_in_html
+  - admonition
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 nav:
   - Home: index.md
