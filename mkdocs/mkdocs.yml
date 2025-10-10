@@ -56,3 +56,4 @@ nav:
     - Intro slides: helios.md
     - ALS simulation: helios_als.ipynb
     - ULS simulation: helios_uls.ipynb
+    - Assessing AFwizard pipelines with LiDAR simulation: helios_for_afwizard.ipynb

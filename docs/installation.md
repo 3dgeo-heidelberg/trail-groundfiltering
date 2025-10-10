@@ -32,7 +32,7 @@ To create a Mamba environment with the necessary libraries, follow these steps:
 1. Open a terminal (**Miniforge Prompt** on Windows, Terminal on macOS/Linux).
 2. Create a new `mamba` environment named `groundfiltering` with Python 3.13, AFwizard and HELIOS++:
 ```bash
-mamba create -n groundfiltering python afwizard helios=2.0.2 rasterio laspy -c conda-forge
+mamba create -n groundfiltering python afwizard helios=2.0.2 rasterio laspy scipy -c conda-forge
 ```
 3. Activate the newly created environment:
 ```bash
