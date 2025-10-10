@@ -38,7 +38,7 @@ extra_css:
 plugins:
   - mkdocs-jupyter:
       include_source: True
-      include_requirejs: true
+      include_requirejs: True
       ignore_h1_titles: True
   - search
   - mkdocs-pdf
@@ -49,9 +49,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Installation: installation.md
-  - Afwizard tutorials:
-    - Study site 1: workflow_StA.ipynb
-    - Study site 2: workflow_PK.ipynb
+  - AFwizard tutorials:
+    - Study site 1: workflow_PK.ipynb
+    - Study site 2: workflow_StA.ipynb
   - HELIOS++ tutorials:
     - Intro slides: helios.md
     - ALS simulation: helios_als.ipynb

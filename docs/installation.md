@@ -1,6 +1,7 @@
 # Installation of software
 
 In this workshop, we will use 
+
 - the [AFwizard](https://github.com/ssciwr/afwizard) library for advanced ground point filtering in LiDAR data, and
 - [HELIOS++](https://github.com/3dgeo-heidelberg/helios) for LiDAR simulation.
 
@@ -11,7 +12,9 @@ First, we will install Miniforge, a distribution of the `conda` and `mamba` pack
 Mamba is a fast, robust, and cross-platform package manager. As [recommended by the developers](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html), we will install Mamba through the Miniforge distribution. Follow the instructions from this page:
 [Mamba Installation](https://github.com/conda-forge/miniforge?tab=readme-ov-file#install). We provide a short summary below.
 
-Here is the direct link to the Windows installer: https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Windows-x86_64.exe. Follow the prompts, taking note of the option to "Create start menu shortcuts".
+Here is the direct link to the Windows installer: [https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Windows-x86_64.exe](https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Windows-x86_64.exe). Follow the prompts, taking note of the option to "Create start menu shortcuts".
+
+For installation on Unix-like platforms, follow the instructions at: [https://github.com/conda-forge/miniforge?tab=readme-ov-file#unix-like-platforms-macos-linux--wsl](https://github.com/conda-forge/miniforge?tab=readme-ov-file#unix-like-platforms-macos-linux--wsl). 
 
 
 ## 2. LAStools
@@ -44,10 +47,12 @@ jupyter-lab imports.ipynb
 ## Additional resources (not needed for the workshop)
 
 For more information using `mamba` and `conda`, you can refer to the following resources:
+
 - [Mamba user guide](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html#mamba)
 - [Conda documentation](https://docs.conda.io/en/latest/)
 
 If you want to use LAStools standalone, you can find the documentation here:
+
 - [LAStools documentation](https://downloads.rapidlasso.de/html/index.html)
 
 ## Troubleshooting

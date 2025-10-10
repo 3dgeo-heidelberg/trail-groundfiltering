@@ -9,6 +9,7 @@ An important task in the processing of airborne laser scanning data is the deriv
 ## What to expect
 
 In hands-on Jupyter notebooks, we will give:
+
 - an introduction to LiDAR ground point filtering using the [AFwizard](https://github.com/ssciwr/afwizard) (Adaptive Filtering Wizard)
 - an introduction to [HELIOS++](https://github.com/3dgeo-heidelberg/helios) (Heidelberg LiDAR Operations Simulator) to virtually compare different survey scenarios
 
@@ -85,6 +86,7 @@ The workshop was prepared by
 This workshop is part of the [TRAIL](https://trail.zrc-sazu.si/) Meeting 2025 under the theme "Airborne laser scanning for farmed landscapes". TRAIL (Training and Research in the Archaeological Interpretation of Lidar) was founded to provide opportunities to share expertise and provide training in the archaeological use of LiDAR.
 
 The sixth TRAIL Meeting is organized by [ZRC SAZU](https://www.zrc-sazu.si/en) (Slovenia) in partnership with 
+
 - [Historic Environment Scotland](https://www.historicenvironment.scot/) (United Kingdom), 
 - [CNRS](https://www.cnrs.fr/en) (France),
 - [University of Clermont Auvergne](https://www.uca.fr/en) (France),
@@ -93,6 +95,7 @@ The sixth TRAIL Meeting is organized by [ZRC SAZU](https://www.zrc-sazu.si/en) (
 - [University of Amsterdam](https://www.uva.nl/en) (the Netherlands). 
 
 It is financially supported by 
+
 - [ZRC SAZU](https://www.zrc-sazu.si/en),
 - [Historic Environment Scotland](https://www.historicenvironment.scot/),
 - [Aerial Archaeology Research Group](https://aargonline.com/wp/),
