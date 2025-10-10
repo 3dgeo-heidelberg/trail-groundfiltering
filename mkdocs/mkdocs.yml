@@ -53,5 +53,6 @@ nav:
     - Study site 1: workflow_StA.ipynb
     - Study site 2: workflow_PK.ipynb
   - HELIOS++ tutorials:
+    - Intro slides: helios.md
     - ALS simulation: helios_als.ipynb
     - ULS simulation: helios_uls.ipynb
