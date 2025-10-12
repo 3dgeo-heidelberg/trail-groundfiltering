@@ -1,6 +1,6 @@
 # LiDAR Simulation with HELIOS++
 
-![HELIOS++ Intro slides](HELIOS++_slides.pdf){ type=application/pdf style="min-height:50vh;width:100%"}
+![HELIOS++ Intro slides](TRAIL_HELIOS.pdf#page=8){ type=application/pdf style="min-height:50vh;width:100%"}
 
 ## Journal Papers
 
