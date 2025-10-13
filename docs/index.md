@@ -13,32 +13,14 @@ In hands-on Jupyter notebooks, we will give:
 - an introduction to LiDAR ground point filtering using the [AFwizard](https://github.com/ssciwr/afwizard) (Adaptive Filtering Wizard)
 - an introduction to [HELIOS++](https://github.com/3dgeo-heidelberg/helios) (Heidelberg LiDAR Operations Simulator) to virtually compare different survey scenarios
 
-!!! note annotate "Important"
+!!! note annotate "Important notice"
 
-    Please make sure to install the software and download the code repository and dataset ^^before^^ the workshop starts!
+    As we have only limited time for the workshop, it is essential that you install software and data ^^before^^ the workshop starts!
+    Please follow the instructions on the [Installation and download page](installation.md).
 
+## Software installation and data downloads
 
-## Dataset and Code
-
-[Download data (heiBOX)](https://heibox.uni-heidelberg.de/d/5fb2dbf7edbe44669630){ .md-button .md-button--primary }
-[Code repository (GitHub)](https://github.com/3dgeo-heidelberg/trail-groundfiltering){ .md-button }
-
-Instructions:
-
-- Click on the "Download data (heiBOX)" link above and download the three files.
-- Click on the "Code repository (GitHub)" link above to go to the GitHub repository.
-- On GitHub, click the green "<> Code" button and select "Download ZIP".
-- Unzip the archive to a folder named `trail-groundfiltering`.
-- Place the data downloaded above from heiBOX into the `docs/data` folder of the unzipped folder.
-
-If you have `git` installed, you can alternatively also clone the repository using:
-```
-git clone https://github.com/3dgeo-heidelberg/trail-groundfiltering.git
-```
-
-## Installation of necessary software
-
-The steps for installation of necessary software are documented on the [Installation page](installation.md).
+The steps for installation of necessary software and download of scripts and data are documented on the [Installation and download page](installation.md).
 
 ## Literature and References
 
