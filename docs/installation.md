@@ -49,7 +49,7 @@ To create a Mamba environment with the necessary libraries, follow these steps:
     ```bash
     mamba create -n groundfiltering python afwizard helios=2.0.2 rasterio laspy scipy -c conda-forge
     ```
-    This might take a few minutes as `mamba` resolves dependencies and downloads the required packages. Just be patient and wait.
+    This might take a few minutes (for lower end devices up to 20 minutes) as `mamba` resolves dependencies and downloads the required packages. Just be patient and wait.
 3. Close Miniforge. Reopen the Miniforge prompt and activate the newly created environment by typing:
 
     ```bash
