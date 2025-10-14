@@ -47,14 +47,14 @@ To create a Mamba environment with the necessary libraries, follow these steps:
     ```bash
     mamba create -n groundfiltering python afwizard helios=2.0.2 rasterio laspy scipy -c conda-forge
     ```
+    This might take a few minutes as `mamba` resolves dependencies and downloads the required packages. Just be patient and wait.
+3. Close Miniforge. Reopen the Miniforge prompt and activate the newly created environment by typing:
 
-3. Activate the newly created environment:
-    
     ```bash
     mamba activate groundfiltering
     ```
 
-4. Change to your `trail-groundfiltering` directory (see [Section 1](#1-dataset-and-code)) and open Jupyter Lab:
+4. Change to your `trail-groundfiltering` directory (see [Section 1](#1-dataset-and-code)) and start Jupyter Lab:
     
     ```bash
     cd path/to/trail-groundfiltering
@@ -76,6 +76,9 @@ If you want to use LAStools standalone, you can find the documentation here:
 - [LAStools documentation](https://downloads.rapidlasso.de/html/index.html)
 
 ## Troubleshooting
+
+- **Issue**: `critical libmamba Shell not initialized` when trying to activate the environment.
+  - **Solution**: Close the prompt, reopen the Miniforge prompt and try again.
 
 ## Further information (advancced)
 
