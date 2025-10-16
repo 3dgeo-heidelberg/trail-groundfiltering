@@ -77,6 +77,7 @@ To create a Mamba environment with the necessary libraries, follow these steps:
    'mamba' is running as a subprocess and can't modify the parent shell.
     Thus you must initialize your shell before using activate and deactivate.
    ```
+  
   - **Solution**: Close and reopen the Miniforge prompt and try again.
 
 ## Further information (advanced)
