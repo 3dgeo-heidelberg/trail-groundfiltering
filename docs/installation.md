@@ -5,8 +5,9 @@ In this workshop, we will use
 - the [AFwizard](https://github.com/ssciwr/afwizard) library for advanced ground point filtering in LiDAR data, and
 - [HELIOS++](https://github.com/3dgeo-heidelberg/helios) for LiDAR simulation.
 
-First, we will install Miniforge, a distribution of the `conda` and `mamba` package managers. This will allow us to install and manage Python and the required libraries in a dedicated environment. In addition, we will install LAStools, a popular toolbox for LiDAR data processing, which is required by a module in AFwizard.
+First, we will download the data and code. We then install Miniforge, a distribution of the `conda` and `mamba` package managers. This will allow us to install and manage Python and the required libraries in a dedicated environment. In addition, we will install LAStools, a popular toolbox for LiDAR data processing, which is required by a module in AFwizard.
 
+If you have any questions or problems with installation, please contact [Hannah Weiser](https://www.geog.uni-heidelberg.de/en/people-at-the-institute/hannah-weiser).
 
 ## 1. Dataset and Code
 
@@ -31,7 +32,7 @@ For installation on Unix-like platforms, follow the instructions at: [https://gi
 
 ## 3. LAStools
 
-**LAStools** is a widely used and efficient toolbox for processing LiDAR data in LAS/LAZ format. It includes tools for filtering, classification, tiling, conversion, and much more. All registered workshop participants will receiva a free LAStools license valid for 4 weeks."
+**LAStools** is a widely used and efficient toolbox for processing LiDAR data in LAS/LAZ format. It includes tools for filtering, classification, tiling, conversion, and much more. All registered workshop participants will receive a free LAStools license valid for 4 weeks during the in-person workshop.
 
 - Download LAStools from the official site (select the appropriate operating system):
   [https://rapidlasso.de/downloads/](https://rapidlasso.de/downloads/)
