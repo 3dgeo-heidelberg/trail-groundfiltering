@@ -1,0 +1,1 @@
+Copy the downloaded course data into this folder.
