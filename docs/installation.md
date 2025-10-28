@@ -34,7 +34,7 @@ For installation on Unix-like platforms, follow the instructions at: [https://gi
 
 **LAStools** is a widely used and efficient toolbox for processing LiDAR data in LAS/LAZ format. It includes tools for filtering, classification, tiling, conversion, and much more. All registered workshop participants will receive a free LAStools license valid for 4 weeks during the in-person workshop.
 
-- Download the LAStools v2.0.0 from the following URL: [https://github.com/LAStools/LAStools/releases/download/v2.0.0/LAStools.zip](https://github.com/LAStools/LAStools/releases/download/v2.0.0/LAStools.zip). IMPORTANT: Use this specific version to ensure compatibility with AFwizard. The newest LAStools version will not work in the demo or trial license version.
+- Download LAStools v2.0.0 from the following URL: [https://github.com/LAStools/LAStools/releases/download/v2.0.0/LAStools.zip](https://github.com/LAStools/LAStools/releases/download/v2.0.0/LAStools.zip). IMPORTANT: Use this specific version to ensure compatibility with AFwizard. The newest LAStools version will not work in the demo or trial license version.
 - After downloading, extract the contents of the ZIP/TAR archive to a directory of your choice, e.g., `C:\LAStools`. Remember this path, as you will later need to set it in the AFwizard notebooks.
 
 If you are on Linux or Mac OS, install LAStools using "Wine" as described here: [https://rapidlasso.de/using-lastools-on-mac-os-x-with-wine/](https://rapidlasso.de/using-lastools-on-mac-os-x-with-wine/). In step 2 of this tutorial, download LAStools v2.0.0 as indicated above instead of the version linked in the tutorial.
